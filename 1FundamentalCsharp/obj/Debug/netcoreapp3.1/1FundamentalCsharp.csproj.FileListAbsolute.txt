@@ -1,0 +1,14 @@
+N:\k\Real Intern\Belajar\1. .NET\1FundamentalCsharp\1FundamentalCsharp\bin\Debug\netcoreapp3.1\1FundamentalCsharp.exe
+N:\k\Real Intern\Belajar\1. .NET\1FundamentalCsharp\1FundamentalCsharp\bin\Debug\netcoreapp3.1\1FundamentalCsharp.deps.json
+N:\k\Real Intern\Belajar\1. .NET\1FundamentalCsharp\1FundamentalCsharp\bin\Debug\netcoreapp3.1\1FundamentalCsharp.runtimeconfig.json
+N:\k\Real Intern\Belajar\1. .NET\1FundamentalCsharp\1FundamentalCsharp\bin\Debug\netcoreapp3.1\1FundamentalCsharp.runtimeconfig.dev.json
+N:\k\Real Intern\Belajar\1. .NET\1FundamentalCsharp\1FundamentalCsharp\bin\Debug\netcoreapp3.1\1FundamentalCsharp.dll
+N:\k\Real Intern\Belajar\1. .NET\1FundamentalCsharp\1FundamentalCsharp\bin\Debug\netcoreapp3.1\1FundamentalCsharp.pdb
+N:\k\Real Intern\Belajar\1. .NET\1FundamentalCsharp\1FundamentalCsharp\obj\Debug\netcoreapp3.1\1FundamentalCsharp.csproj.AssemblyReference.cache
+N:\k\Real Intern\Belajar\1. .NET\1FundamentalCsharp\1FundamentalCsharp\obj\Debug\netcoreapp3.1\1FundamentalCsharp.GeneratedMSBuildEditorConfig.editorconfig
+N:\k\Real Intern\Belajar\1. .NET\1FundamentalCsharp\1FundamentalCsharp\obj\Debug\netcoreapp3.1\1FundamentalCsharp.AssemblyInfoInputs.cache
+N:\k\Real Intern\Belajar\1. .NET\1FundamentalCsharp\1FundamentalCsharp\obj\Debug\netcoreapp3.1\1FundamentalCsharp.AssemblyInfo.cs
+N:\k\Real Intern\Belajar\1. .NET\1FundamentalCsharp\1FundamentalCsharp\obj\Debug\netcoreapp3.1\1FundamentalCsharp.csproj.CoreCompileInputs.cache
+N:\k\Real Intern\Belajar\1. .NET\1FundamentalCsharp\1FundamentalCsharp\obj\Debug\netcoreapp3.1\1FundamentalCsharp.dll
+N:\k\Real Intern\Belajar\1. .NET\1FundamentalCsharp\1FundamentalCsharp\obj\Debug\netcoreapp3.1\1FundamentalCsharp.pdb
+N:\k\Real Intern\Belajar\1. .NET\1FundamentalCsharp\1FundamentalCsharp\obj\Debug\netcoreapp3.1\1FundamentalCsharp.genruntimeconfig.cache
